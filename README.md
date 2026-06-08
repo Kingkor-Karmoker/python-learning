@@ -9,8 +9,8 @@ Currently reading: Python Crash Course by Eric Matthes.
 - My own experiments and modifications
 
 ## My Progress
-- [ ] Chapter 1 - Getting Started
-- [ ] Chapter 2 - Variables and Data Types
+- [x] Chapter 1 - Getting Started
+- [x] Chapter 2 - Variables and Data Types
 - [ ] Chapter 3 - Lists
 - [ ] Chapter 4 - Working with Lists
 - [ ] Chapter 5 - If Statements
