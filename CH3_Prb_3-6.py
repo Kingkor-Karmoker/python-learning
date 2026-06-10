@@ -1,3 +1,4 @@
+#Chapter 3 problem 3.6:
 #code from prb 3.4:
 persons = ['Jasmine', 'Sazid', 'Cintiya']
 for person in persons:
