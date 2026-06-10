@@ -1,3 +1,4 @@
+# Chapter 3 problem 3.8 - practice
 places = ['Germany', 'Finland', 'Ireland', 'philippines', 'switzerland']
 print(places)
 
