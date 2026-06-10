@@ -11,7 +11,7 @@ Currently reading: Python Crash Course by Eric Matthes.
 ## My Progress
 - [x] Chapter 1 - Getting Started
 - [x] Chapter 2 - Variables and Data Types
-- [ ] Chapter 3 - Lists
+- [x] Chapter 3 - Lists
 - [ ] Chapter 4 - Working with Lists
 - [ ] Chapter 5 - If Statements
 - [ ] Chapter 6 - Dictionaries
