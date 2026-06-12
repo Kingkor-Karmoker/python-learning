@@ -12,7 +12,7 @@ Currently reading: Python Crash Course by Eric Matthes.
 - [x] Chapter 1 - Getting Started
 - [x] Chapter 2 - Variables and Data Types
 - [x] Chapter 3 - Lists
-- [ ] Chapter 4 - Working with Lists
+- [x] Chapter 4 - Working with Lists
 - [ ] Chapter 5 - If Statements
 - [ ] Chapter 6 - Dictionaries
 - [ ] Chapter 7 - User Input and While Loops
