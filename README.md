@@ -14,7 +14,7 @@ Currently reading: Python Crash Course by Eric Matthes.
 - [x] Chapter 3 - Lists
 - [x] Chapter 4 - Working with Lists
 - [x] Chapter 5 - If Statements
-- [ ] Chapter 6 - Dictionaries
+- [x] Chapter 6 - Dictionaries
 - [ ] Chapter 7 - User Input and While Loops
 - [ ] Chapter 8 - Functions
 - [ ] Chapter 9 - Classes
