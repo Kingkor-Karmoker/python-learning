@@ -1,5 +1,4 @@
 # code for problem 6.4:
-# code for problem 6.3:
 programing_words = {
     'String': "a fundamental data type that represents a sequence of characters ",
     'Int': "Integers data type",
@@ -17,7 +16,7 @@ programing_words['tuple'] = "structure data type stores values which cant be mut
 programing_words['Set'] = "List of unique values"
 programing_words['Dictionary'] = "list of key with values"
 programing_words['insert'] = "inserting a value in a list"
-programing_words['del'] = "a method to delete values in a list"
+programing_words['del'] = "a keyword to delete values in a list"
 
 for k, v in programing_words.items():
     print(f"word: {k}")
