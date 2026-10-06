@@ -18,5 +18,5 @@ Currently reading: Python Crash Course by Eric Matthes.
 - [x] Chapter 7 - User Input and While Loops
 - [x] Chapter 8 - Functions
 - [x] Chapter 9 - Classes
-- [ ] Chapter 10 - Files and Exceptions
+- [x] Chapter 10 - Files and Exceptions
 - [ ] Chapter 11 - Testing Your Code
